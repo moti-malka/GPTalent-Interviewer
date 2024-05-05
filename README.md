@@ -1,6 +1,6 @@
 # GPTalent Interviewer
 
-![GPTalent Interviewer Logo](https://your-website.com/logo.png)
+![GPTalent Interviewer Logo](./Screenshot%202024-05-05%20at%2023.57.43.png)
 
 ## Introduction
 
@@ -29,13 +29,6 @@ A positive candidate experience is crucial for attracting top talent. GPTalent I
 ### 5. Data-Driven Insights
 
 GPTalent Interviewer offers valuable insights into the hiring process through data analytics. Track candidate performance, analyze interview trends, and identify areas for improvement using comprehensive data reports. These insights empower recruiters to make informed decisions and optimize their hiring strategies.
-
-## Usage
-
-1. **Sign Up/Login**: Create an account or log in to access the interview platform.
-2. **Schedule Interviews**: Schedule interviews with candidates directly through the platform.
-3. **Conduct Interviews**: Conduct interviews using ChatGPT and avatar technology.
-4. **Review and Evaluate**: Review interview transcripts and evaluate candidates efficiently.
 
 ## Contributing
 
