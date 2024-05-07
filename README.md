@@ -30,6 +30,65 @@ A positive candidate experience is crucial for attracting top talent. GPTalent I
 
 GPTalent Interviewer offers valuable insights into the hiring process through data analytics. Track candidate performance, analyze interview trends, and identify areas for improvement using comprehensive data reports. These insights empower recruiters to make informed decisions and optimize their hiring strategies.
 
+
+# Get Started 
+
+
+## Configuration Settings
+
+Before running the application, you need to set up the following configurations:
+
+### Azure Speech Resource
+
+- **Description:** Azure Speech Resource is used for speech recognition capabilities within the application.
+  
+  - **Region:** Select the appropriate region where the Azure Speech service is deployed (e.g., West US, West Europe, Southeast Asia).
+  
+  - **Subscription Key:** Provide the Azure Speech subscription key.
+
+### Azure OpenAI Resource
+
+- **Description:** Azure OpenAI Resource is utilized for natural language processing tasks within the application.
+  
+  - **Endpoint:** Provide the Azure OpenAI endpoint.
+  
+  - **API Key:** Provide the Azure OpenAI API key.
+  
+  - **Deployment Name:** Specify the name of the deployment for the OpenAI model.
+
+### Azure Cognitive Search Resource (Optional)
+
+- **Description:** Azure Cognitive Search Resource, if needed, is used for searching functionality within the application.
+  
+  - **Endpoint:** Provide the Azure Cognitive Search endpoint.
+  
+  - **API Key:** Provide the Azure Cognitive Search API key.
+  
+  - **Index Name:** Specify the name of the search index.
+
+### STT / TTS Configuration
+
+- **Description:** STT (Speech-to-Text) / TTS (Text-to-Speech) Configuration settings determine the speech and voice interactions within the application.
+  
+  - **STT Locale(s):** Specify the locales for speech recognition (e.g., en-US, de-DE).
+  
+  - **TTS Voice:** Specify the text-to-speech voice.
+  
+  - **Custom Voice Deployment ID:** If applicable, provide the custom voice deployment ID.
+
+### Avatar Configuration
+
+- **Description:** Avatar Configuration settings define the appearance and behavior of the avatar used in the application.
+  
+  - **Avatar Character:** Specify the avatar character (e.g., lisa).
+  
+  - **Avatar Style:** Specify the avatar style (e.g., casual-sitting).
+  
+  - **Custom Avatar:** Check this box if using a custom avatar.
+
+### Job Description
+
+Before starting the session, please enter the job description in the provided text area.
 ## Contributing
 
 We welcome contributions from the community to enhance the GPTalent Interviewer. To contribute, please follow these guidelines:
